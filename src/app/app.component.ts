@@ -15,6 +15,8 @@ export class AppComponent {
     this.dataService.getJSON().subscribe((x: CharacterModels) => {
       // console.log(x.data.results[0]);
       console.log(x);
+    }, err => {
+      console.log(err);
     });
   }
 }

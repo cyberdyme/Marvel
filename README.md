@@ -25,3 +25,10 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+public: cab7bf9824b729c6d118dca91bea143c
+private: a7b2fbfe6a71c3cfeb894cb1989a50fbe86c8c63
+
+
+http://gateway.marvel.com/v1/public/comics?ts=1&apikey=cab7bf9824b729c6d118dca91bea143c&hash=ffd275c5130566a2916217b101f26150
